@@ -1,0 +1,29 @@
+interpreter is like talking to the computer
+scripting is like giving set of commands to computer
+0. location
+1. tell about interactive shell
+2. basic mathematical operator(+,-,*,/,**,%,//)
+3. round brackets (precedence)
+4. 	datatypes : Integer(-2,1,3,)
+	floating point : (1.23,2.34,-3.45)
+	strings : 'a','aa'
+5. String concatenation
+6. string replication
+7. variable and assignment operator(=)
+8. while deciding a name of the variable u cannot have(number, special character, even hyphens are not allowed)
+9. start scripting
+10. comments
+
+Flow control 
+
+11. comparison operator (== , != , < , > , <= , >=)
+12. taking values on interactive shell (2==2, 2! = 3) taking same on strings
+13. If condition
+14. else  (Example of alice or Alex) 
+15. elif 
+16. while
+17. break
+18. continue
+19. for
+
+
